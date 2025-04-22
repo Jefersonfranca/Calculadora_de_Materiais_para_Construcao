@@ -48,12 +48,6 @@ streamlit run calculadora_material.py
 
 ---
 
-## 📸 Exemplo da Interface
-
-(Adicione aqui um print da aplicação rodando no navegador)
-
----
-
 ## 📄 Licença
 
 Este projeto está sob a licença [MIT](LICENSE).
